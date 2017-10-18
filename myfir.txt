@@ -1,5 +1,2 @@
-this is my first txt file
-please treat it well
-ok now you know how to use git 
-congratulations
+i know you could do it very well
 
